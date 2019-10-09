@@ -61,6 +61,13 @@ System.out.println("ANS IS " + k);
 System.out.println("J IS " + j);
 System.out.println(marks);
 rs.next();
+
+//System.out.println("ANS IS " + k);
+//System.out.println("J IS " + j);
+//System.out.println(marks);
+//rs.next();
+
+
 }catch(Exception e) { System.out.println(e); } 
 
 
@@ -77,6 +84,18 @@ Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 c= DriverManager.getConnection( "jdbc:odbc:abc","root","root");
 s=c.createStatement();
 rs= s.executeQuery("select * from exam");
+//s=c.createStatement();
+//s=c.createStatement();
+//s=c.createStatement();
+//s=c.createStatement();
+
+//s=c.createStatement();
+s=c.createStatement();
+//Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+//c= DriverManager.getConnection( "jdbc:odbc:abc","root","root");
+//s=c.createStatement();
+//rs= s.executeQuery("select * from exam");
+
 }catch(Exception e) { System.out.println(e); }
 b1= new Button("Submit");
 b2= new Button("Start");
