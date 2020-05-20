@@ -62,6 +62,9 @@ String op1=request.getParameter("t4");
 String op2=request.getParameter("t5");
 String op3=request.getParameter("t6");
 String op4=request.getParameter("t7");
+String op2=request.getParameter("t8");
+String op3=request.getParameter("t9");
+String op4=request.getParameter("t10");
 String ans=request.getParameter("o1");
 if(!(qid==" " && author==" "  && quest==" "  && op1== " "&& op2== " "&& op3== " "&& op4== " "&& ans== " "))
 {
