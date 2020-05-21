@@ -108,6 +108,11 @@ rs.next();
 sample()
 {
 try{
+c3.setLabel(rs.getString(4));
+t1.setText(rs.getString(1));
+c1.setLabel(rs.getString(2));
+c2.setLabel(rs.getString(3));
+c3.setLabel(rs.getString(4));
 Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
 c= DriverManager.getConnection( "jdbc:odbc:abc","root","root");
 s=c.createStatement();
