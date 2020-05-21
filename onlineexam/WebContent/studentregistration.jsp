@@ -49,7 +49,10 @@ String name=request.getParameter("t1");
 String id=request.getParameter("t2");
 String phone=request.getParameter("t3");
 String pwd=request.getParameter("t4");
-
+String name=request.getParameter("t1");
+String id=request.getParameter("t2");
+String phone=request.getParameter("t3");
+String pwd=request.getParameter("t4");
 if(!(name==" " && id==" "  && phone==" "  && pwd== " "))
 {
 
