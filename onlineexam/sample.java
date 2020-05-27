@@ -1,3 +1,6 @@
+public void windowDeiconified(WindowEvent e) {  }
+public void windowClosing(WindowEvent e) {   System.exit(0); }
+
 import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
