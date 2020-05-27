@@ -1,7 +1,8 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1" import="java.sql.*"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-
+public void windowDeiconified(WindowEvent e) {  }
+public void windowClosing(WindowEvent e) {   System.exit(0); }
 <html>
 <body background="F:\wallies\HD Wallpapers\img36.jpg">
 <form action="studentregistration.jsp" method=post>
