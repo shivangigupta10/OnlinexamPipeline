@@ -1,3 +1,7 @@
+Poor logging add :
+
+System.out.println("Generation password reset link for " + username);
+
 Added here
 public void windowDeiconified(WindowEvent e) {  }
 public void windowClosing(WindowEvent e) {   System.exit(0); }
