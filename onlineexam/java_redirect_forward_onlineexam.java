@@ -1,3 +1,7 @@
+Added here:
+public void windowDeiconified(WindowEvent e) {  }
+public void windowClosing(WindowEvent e) {   System.exit(0); }
+
 <%
 	String redirectURL = "http://www.example.com/";
 
