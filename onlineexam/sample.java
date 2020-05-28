@@ -1,3 +1,7 @@
+Newly Added Poor logging add :
+
+System.out.println("Generation password reset link for " + username);
+
 Poor logging add :
 
 System.out.println("Generation password reset link for " + username);
