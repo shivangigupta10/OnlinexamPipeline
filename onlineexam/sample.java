@@ -1,3 +1,14 @@
+29May20
+
+New scan :
+
+
+static System.loadLibrary("LibFile");
+static System.loadLibrary("LibFile");
+
+----------------------------------------------------------------------------------------------------
+
+
 static System.loadLibrary("LibFile");
 static System.loadLibrary("LibFile");
 
