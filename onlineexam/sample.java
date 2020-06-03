@@ -12,7 +12,15 @@ static System.loadLibrary("LibFile");
 static System.loadLibrary("LibFile");
 static System.loadLibrary("LibFile");
 
-
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
 Newly added SQL Injection: 4 scenarios 29 May20
