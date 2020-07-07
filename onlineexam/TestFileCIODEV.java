@@ -1,20 +1,23 @@
-dangerouslySetInnerHTML 
-httpProvider new.withCredentials=false
-angular.module("new")
-
------------------------------------------------
-
-a.setHttpOnly(false)
-a.setHttpOnly(False)
-a.secure(false)
-a.secure(False)
-session.cookie_secure=false
-session.cookie_secure=False
-Secure=false
-Secure=False
-<secure> false </secure>
-<secure> False </secure>
-<http-only>False</http-only>
-<http-only>false</http-only>
-httpOnlyCookies="False
-httpOnlyCookies="false"
+httponly=0
+httponly=False
+httponly=off
+Session["abc"]
+Session("abc")
+session.cookie_lifetime=9
+session.use_only_cookies=off
+<property name="idLengthBytes" value ="1">
+<property name="idLengthBytes" value ="00">
+abc.setMaxInactiveInterval(-1)
+<session-timeout> -1 </session-timeout>
+------------------------------------------------
+//httponly=0
+//httponly=False
+//httponly=off
+//Session["abc"]
+//Session("abc")
+//session.cookie_lifetime=9
+//session.use_only_cookies=off
+//<property name="idLengthBytes" value ="1">
+//<property name="idLengthBytes" value ="00">
+//abc.setMaxInactiveInterval(-1)
+//<session-timeout> -1 </session-timeout>
