@@ -37,3 +37,15 @@ Cross site scripting PFP
 //nativeElement
 //new.outerHTML=mnop
 //window.__PRELOADED_STATE__=${JSON.Stringify(preloadedState)}
+----------------------------------------------------------------------------------------------
+Cryptography Js
+
+crypto.pseudoRandomBytes(a)
+abc crypto.pseudoRandomBytes(a)
+--------------------------------------------------------------------------------------------------
+Sensitive Data Exposure
+
+jQuery.parseJSON(
+a jQuery.parseJSON(
+
+
