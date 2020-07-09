@@ -11,5 +11,8 @@ Key Management: Null Encryption Key
 
 AES.new(None)
 ----------------------------------------------------------------------------
+Cryptography
+
+random.random()
 
 
